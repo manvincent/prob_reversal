@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg2352"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="stimuli_shared.svg">
+  <defs
+     id="defs2346" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-125.71429"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2349">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.39041257;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1006-9"
+       width="119.03547"
+       height="119.07394"
+       x="-58.361431"
+       y="23.801193" />
+    <rect
+       y="23.801193"
+       x="-58.361431"
+       height="119.07394"
+       width="119.03547"
+       id="rect1015-5"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.39041257;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(1575.6634,-874.68599)"
+       id="g2048"
+       inkscape:export-filename="/home/vman/Dropbox/PostDoctoral/gitRepos/prob_reversal/Images/cb_1/gain_10.ong.png"
+       inkscape:export-xdpi="96.019997"
+       inkscape:export-ydpi="96.019997">
+      <g
+         id="g1613">
+        <g
+           id="g1555">
+          <g
+             transform="translate(-14.432554,-8.5526248)"
+             id="g1342">
+            <circle
+               style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="circle1008-6"
+               cx="-1574.8885"
+               cy="931.664"
+               r="27.693359" />
+            <circle
+               r="27.693359"
+               cy="931.664"
+               cx="-1574.8885"
+               id="circle1017-6"
+               style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               x="-1599.2371"
+               y="939.19171"
+               id="text1129-5"><tspan
+                 sodipodi:role="line"
+                 id="tspan1127-9"
+                 x="-1599.2371"
+                 y="939.19171"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">+25</tspan></text>
+          </g>
+          <g
+             id="g1540">
+            <circle
+               style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="circle1019-1"
+               cx="-1589.0354"
+               cy="983.04041"
+               r="27.693359" />
+            <text
+               id="text1147-8"
+               y="989.84052"
+               x="-1594.2592"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+               xml:space="preserve"><tspan
+                 sodipodi:role="line"
+                 id="tspan1145-1"
+                 x="-1594.2592"
+                 y="989.84052">X</tspan></text>
+          </g>
+          <circle
+             r="27.693359"
+             cy="923.11139"
+             cx="-1589.321"
+             id="circle1348"
+             style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle1350"
+             cx="-1589.321"
+             cy="923.11139"
+             r="27.693359" />
+          <text
+             id="text1355"
+             y="930.6391"
+             x="-1613.6696"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="930.6391"
+               x="-1613.6696"
+               id="tspan1353"
+               sodipodi:role="line">+10</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       transform="translate(1575.6634,-874.68599)"
+       id="g2069"
+       inkscape:export-filename="/home/vman/Dropbox/PostDoctoral/gitRepos/prob_reversal/Images/cb_1/gain_20.png"
+       inkscape:export-xdpi="96.019997"
+       inkscape:export-ydpi="96.019997">
+      <g
+         id="g1597">
+        <g
+           transform="translate(51.315751,-8.5526248)"
+           id="g1417">
+          <circle
+             style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle1409"
+             cx="-1574.8885"
+             cy="931.664"
+             r="27.693359" />
+          <circle
+             r="27.693359"
+             cy="931.664"
+             cx="-1574.8885"
+             id="circle1411"
+             style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             x="-1599.2371"
+             y="939.19171"
+             id="text1415"><tspan
+               sodipodi:role="line"
+               id="tspan1413"
+               x="-1599.2371"
+               y="939.19171"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">+25</tspan></text>
+        </g>
+        <circle
+           r="27.693359"
+           cy="923.11139"
+           cx="-1523.5728"
+           id="circle1423"
+           style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1425"
+           cx="-1523.5728"
+           cy="923.11139"
+           r="27.693359" />
+        <text
+           id="text1429"
+           y="930.6391"
+           x="-1547.9213"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             y="930.6391"
+             x="-1547.9213"
+             id="tspan1427"
+             sodipodi:role="line">+10</tspan></text>
+        <g
+           id="g1569"
+           transform="translate(51.315751,51.923566)">
+          <circle
+             r="27.693359"
+             cy="931.664"
+             cx="-1574.8885"
+             id="circle1561"
+             style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <circle
+             style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle1563"
+             cx="-1574.8885"
+             cy="931.664"
+             r="27.693359" />
+          <text
+             id="text1567"
+             y="939.19171"
+             x="-1599.2371"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+               y="939.19171"
+               x="-1599.2371"
+               id="tspan1565"
+               sodipodi:role="line">+25</tspan></text>
+        </g>
+        <circle
+           style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1571"
+           cx="-1523.5728"
+           cy="983.58759"
+           r="27.693359" />
+        <circle
+           r="27.693359"
+           cy="983.58759"
+           cx="-1523.5728"
+           id="circle1573"
+           style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-1547.9213"
+           y="991.1153"
+           id="text1577"><tspan
+             sodipodi:role="line"
+             id="tspan1575"
+             x="-1547.9213"
+             y="991.1153"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">+10</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(1575.6634,-874.68599)"
+       id="g2143"
+       inkscape:export-filename="/home/vman/Dropbox/PostDoctoral/gitRepos/prob_reversal/Images/cb_1/loss_20.png"
+       inkscape:export-xdpi="96.019997"
+       inkscape:export-ydpi="96.019997">
+      <g
+         id="g2104">
+        <circle
+           r="27.693359"
+           cy="1122.6829"
+           cx="-1523.5728"
+           id="circle1677"
+           style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text1683"
+           y="1130.2106"
+           x="-1547.9213"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             y="1130.2106"
+             x="-1547.9213"
+             id="tspan1681"
+             sodipodi:role="line">- 10</tspan></text>
+      </g>
+      <g
+         id="g2109">
+        <circle
+           style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1659"
+           cx="-1523.5728"
+           cy="1062.2067"
+           r="27.693359" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-1547.9213"
+           y="1069.7344"
+           id="text1665"><tspan
+             sodipodi:role="line"
+             id="tspan1663"
+             x="-1547.9213"
+             y="1069.7344"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">- 10</tspan></text>
+      </g>
+    </g>
+    <rect
+       y="162.89644"
+       x="-58.361431"
+       height="119.07394"
+       width="119.03547"
+       id="rect1615"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.39041257;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.39041257;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1617"
+       width="119.03547"
+       height="119.07394"
+       x="-58.361431"
+       y="162.89644" />
+    <g
+       transform="translate(1575.6634,-874.68599)"
+       id="g2133"
+       inkscape:export-filename="/home/vman/Dropbox/PostDoctoral/gitRepos/prob_reversal/Images/cb_1/loss_10.png"
+       inkscape:export-xdpi="96.019997"
+       inkscape:export-ydpi="96.019997">
+      <circle
+         style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1637"
+         cx="-1589.321"
+         cy="1062.2067"
+         r="27.693359" />
+      <circle
+         style="opacity:1;fill:#2df6ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle1629"
+         cx="-1589.0354"
+         cy="1122.1356"
+         r="27.693359" />
+      <g
+         id="g1627"
+         transform="translate(-14.432554,130.54262)">
+        <circle
+           r="27.693359"
+           cy="931.664"
+           cx="-1574.8885"
+           id="circle1619"
+           style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1621"
+           cx="-1574.8885"
+           cy="931.664"
+           r="27.693359" />
+        <text
+           id="text1625"
+           y="939.19171"
+           x="-1599.2371"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             y="939.19171"
+             x="-1599.2371"
+             id="tspan1623"
+             sodipodi:role="line">+25</tspan></text>
+      </g>
+      <circle
+         r="27.693359"
+         cy="1062.2067"
+         cx="-1589.321"
+         id="circle1639"
+         style="opacity:1;fill:#2df6ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1633"
+         y="1128.9358"
+         x="-1594.2592"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan1631"
+           x="-1594.2592"
+           y="1128.9358">X</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-1613.6696"
+         y="1069.7344"
+         id="text1643"><tspan
+           sodipodi:role="line"
+           id="tspan1641"
+           x="-1613.6696"
+           y="1069.7344"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">- 10</tspan></text>
+    </g>
+    <g
+       transform="translate(1575.6634,-874.68599)"
+       id="g2215"
+       inkscape:export-filename="/home/vman/Dropbox/PostDoctoral/gitRepos/prob_reversal/Images/cb_2/gain_20.png"
+       inkscape:export-xdpi="96.019997"
+       inkscape:export-ydpi="96.019997">
+      <g
+         id="g2184">
+        <circle
+           r="27.693359"
+           cy="983.58759"
+           cx="-1341.3882"
+           id="circle1831"
+           style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text1837"
+           y="991.1153"
+           x="-1365.7367"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             y="991.1153"
+             x="-1365.7367"
+             id="tspan1835"
+             sodipodi:role="line">+10</tspan></text>
+      </g>
+      <g
+         id="g2179">
+        <circle
+           style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1813"
+           cx="-1341.3882"
+           cy="923.11139"
+           r="27.693359" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-1365.7367"
+           y="930.6391"
+           id="text1819"><tspan
+             sodipodi:role="line"
+             id="tspan1817"
+             x="-1365.7367"
+             y="930.6391"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">+10</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(1575.6634,-874.68599)"
+       id="g2205"
+       inkscape:export-filename="/home/vman/Dropbox/PostDoctoral/gitRepos/prob_reversal/Images/cb_2/gain_10.png"
+       inkscape:export-xdpi="96.019997"
+       inkscape:export-ydpi="96.019997">
+      <g
+         id="g2148">
+        <circle
+           r="27.693359"
+           cy="923.11139"
+           cx="-1407.1365"
+           id="circle1791"
+           style="opacity:1;fill:#2dfff6;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           id="text1797"
+           y="930.6391"
+           x="-1431.485"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             y="930.6391"
+             x="-1431.485"
+             id="tspan1795"
+             sodipodi:role="line">+10</tspan></text>
+      </g>
+      <g
+         id="g2174">
+        <g
+           id="g2166">
+          <g
+             id="g2159">
+            <g
+               id="g2153">
+              <circle
+                 style="opacity:1;fill:#2df6ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 id="circle1783"
+                 cx="-1406.8508"
+                 cy="983.04041"
+                 r="27.693359" />
+              <text
+                 id="text1787"
+                 y="989.84052"
+                 x="-1412.0746"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                 xml:space="preserve"><tspan
+                   sodipodi:role="line"
+                   id="tspan1785"
+                   x="-1412.0746"
+                   y="989.84052">X</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect
+       y="23.801193"
+       x="123.82317"
+       height="119.07394"
+       width="119.03547"
+       id="rect1769"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.39041257;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.39041257;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1771"
+       width="119.03547"
+       height="119.07394"
+       x="123.82317"
+       y="23.801193" />
+    <g
+       transform="translate(1575.6634,-874.68599)"
+       id="g2225"
+       inkscape:export-filename="/home/vman/Dropbox/PostDoctoral/gitRepos/prob_reversal/Images/cb_2/loss_20.png"
+       inkscape:export-xdpi="96.019997"
+       inkscape:export-ydpi="96.019997">
+      <g
+         id="g2192">
+        <circle
+           style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1884"
+           cx="-1341.3882"
+           cy="1062.2067"
+           r="27.693359" />
+        <text
+           id="text1888"
+           y="1069.7344"
+           x="-1365.7367"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+             y="1069.7344"
+             x="-1365.7367"
+             id="tspan1886"
+             sodipodi:role="line">- 10</tspan></text>
+      </g>
+      <g
+         id="g2119">
+        <circle
+           r="27.693359"
+           cy="1122.6829"
+           cx="-1341.3882"
+           id="circle1902"
+           style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-1365.7367"
+           y="1130.2106"
+           id="text1906"><tspan
+             sodipodi:role="line"
+             id="tspan1904"
+             x="-1365.7367"
+             y="1130.2106"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">- 10</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.39041257;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1841"
+       width="119.03547"
+       height="119.07394"
+       x="123.82317"
+       y="162.89644" />
+    <rect
+       y="162.89644"
+       x="123.82317"
+       height="119.07394"
+       width="119.03547"
+       id="rect1843"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:2.39041257;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(1575.6634,-874.68599)"
+       id="g2233"
+       inkscape:export-filename="/home/vman/Dropbox/PostDoctoral/gitRepos/prob_reversal/Images/cb_2/loss_10.png"
+       inkscape:export-xdpi="96.019997"
+       inkscape:export-ydpi="96.019997">
+      <circle
+         r="27.693359"
+         cy="1062.2067"
+         cx="-1407.1365"
+         id="circle1862"
+         style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="27.693359"
+         cy="1122.1356"
+         cx="-1406.8508"
+         id="circle1856"
+         style="opacity:1;fill:#fdff2d;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1868"
+         y="1069.7344"
+         x="-1431.485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.45833397px;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
+           y="1069.7344"
+           x="-1431.485"
+           id="tspan1866"
+           sodipodi:role="line">- 10</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Hani;-inkscape-font-specification:'Hani, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-1412.0746"
+         y="1128.9358"
+         id="text1860"><tspan
+           y="1128.9358"
+           x="-1412.0746"
+           id="tspan1858"
+           sodipodi:role="line">X</tspan></text>
+    </g>
+  </g>
+</svg>
