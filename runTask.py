@@ -35,7 +35,7 @@ check = 0
 while check == 0:
     expName = 'Task'  # from the Builder filename that created this script
     expInfo = {'SubNo': 999,
-               'Version': 'debug',
+               'Version': 'test',
                'BSCond': 'rl',
                'Modality': 'fMRI',
                'doInstruct': True,
